@@ -1,0 +1,7 @@
+<window title="Captcha" width="600px" border="normal" apply="com.sun.plate.vm.CaptchaViewModel">
+  <vbox>
+    <image id = "promptImage"/>
+    <image id = "contentImage"/>
+  </vbox>
+
+</window>
